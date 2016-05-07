@@ -13,7 +13,7 @@ Copyright (c) 2015, The University of Nottingham
 
 DESCRIPTION
 
-The core components for a network of public-facing, urban screens. Styled for portrait, touch-based display @ a resolution of 745x1340. 
+The core components for a network of public-facing, urban screens. Styled for a portrait, touch-based display, with available browser screen space of 745x1340. 
 
 The database allows separate slideshows from the same media directory, using a database 'appName' field to filter the images. 
 
