@@ -1,0 +1,143 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<title>SitW Template Example</title>
+
+
+
+<!the order of the next bit is important... define the name, then inline sitw.js and THEN do stuff>
+<!first define the name for your experience>
+
+<script type="text/javascript">
+// Important: change this to the name of your experience!!
+var experienceName = "myTestExperience";
+</script>
+
+<!now include SITW power!>
+
+<script type="text/javascript" src="sitw.js"></script>
+
+
+<!Now, do stuff with SITW power!>
+
+<script type="text/javascript">
+
+
+/* ########################## START: SITW functionality ################################## */
+
+// A shortcut to adding UNION Server 'Shared' behaviours on the 'Screens in the Wild' Network by Steve North
+
+// Open the browser Javascript console to see what's going on...now click anywhere!!
+
+// Note: when you test this file...in order to use the location-specific code, you will need to add the 'loc' argument to the URL.
+// For example: if you are testing it locally...it might look like this: file:///C:/Users/<user name>/Desktop/index.html?loc=BW
+// Currently legal values for loc are: BW (Broadway Cinema), NA (New Art Exchange), WA (The Mill, Walthamshow) and LE (Leytonstone). 
+
+// This JavaScript can live in an HTML file script element, or in a separate Javascript file, that is included via a 'src' parameter. 
+
+/* ########## START: incoming SITW event handling ########## */
+
+// In this example, there are two types of incoming events: changes of state for the entire experience 
+// and momentary events from a specific location. 
+
+// 1. Changes of state for the entire experience - (SOMETHING HAS CHANGED FOR EVERYONE)
+// These messages tell you when the value of an attribute has changed on UNION Server.
+// These attributes relate specifically to the experience defined by the variable 'experienceName'.
+// Attributes might be high scores, for example. 
+// State is retained so long as UNION Server is not reset. They won't survive a server reset.
+
+// Note: this next bit can handle any attributeName that you have choosen to define by calling the function - sitwOutgoingChangeOfState(attributeName, attributeValue).
+// You just need to edit the bit below to identify your attributeName and decide what to do with the attributeValue.
+
+function sitwIncomingChangeOfState(attributeName, attributeValue) {
+
+// Once you have an attribute and it's new value...you might edit this bit to do something with it...
+if (attributeName == "myAttribute")
+{
+//doSomething(attributeValue);
+}
+
+// Repeat with 'ifs' for your other attributes...
+
+} // close sitwIncomingChangeOfState
+
+
+// 2. Momentary events from a specific location (SOMETHING HAS CHANGED AT ONE LOCATION)
+// These messages tell you when someone has changed something at another location.
+// This is best suited for rapid messaging that does not need to have its state remembered by UNION Server (for example: user screen position changes in a game).
+// These events will go to everyone connected to this experience, as defined by the variable 'experienceName'.
+// They are NOT retained by UNION Server.
+
+// Note: this next bit can handle any eventName that you have choosen to define by calling the function - sitwOutgoingEvent(eventName, eventValue) - note: location is added automatically before sending. 
+// You just need to edit the bit below to identify your eventName and decide what to do with the eventValue and eventLocation.
+
+function sitwIncomingEvent(eventName, eventValue, eventLocation) {
+
+if (eventName == "myEvent")
+{
+//doSomething(eventLocation,eventValue);
+}
+
+} // close sitwIncomingEvent
+
+
+/* ########## END: incoming SITW event handling ########## */
+
+
+
+/* ########## START: example of how to send events ########## */
+
+// Note: once you understand this bit...you might want to get rid of the mouse handler 
+// The important bit to remember for use in your own code is:
+// sitwOutgoingChangeOfState(attributeName, attributeValue);
+// and
+// sitwOutgoingEvent(eventName, eventValue);
+
+// create a listener for mouse down events
+document.onmousedown = pointerDownListener;
+
+// This is the mouse down listener...
+function pointerDownListener (e) {
+
+// You can define an attribute name...it can be anything that you like and UNION Server will store it, unless it's reset. 
+// This is just an example, you can define as many different attributes as required for your experience. 
+// Just remember that you will have to handle each event in sitwIncomingChangeOfState()!
+// The format of the function call is: sitwOutgoingChangeOfState(attributeName, attributeValue);
+// For example:
+sitwOutgoingChangeOfState("myAttribute", "undersea bristles");
+
+// You can define an event name...it can be anything that you like. 
+// This is just an example, you can define as many different events as required for your experience.
+// Just remember that you will have to handle each event in sitwIncomingEvent()!
+// The format of the function call is: sitwOutgoingEvent(eventName, eventValue);
+// For example:
+sitwOutgoingEvent("myevent", "42");
+
+}
+
+
+/* ########################## END: SITW functionality ################################## */
+
+
+</script>
+
+
+</head>
+
+<body>
+
+Steve says: "Open the browser Javascript console to see what's going on...now click anywhere!!"<P>
+
+Note: when you test this file...in order to use the location-specific code, you will need to add the 'loc' argument to the URL.<P>
+For example: if you are testing it locally...it might look like this: file:///C:/Users/<user name>/Desktop/index.html?loc=BW<P>
+Currently legal values for loc are: BW (Broadway Cinema), NA (New Art Exchange), WA (The Mill, Walthamshow) and LE (Leytonstone).<P>
+
+</body>
+
+
+
+
