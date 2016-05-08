@@ -13,11 +13,7 @@ Copyright (c) 2015, The University of Nottingham
 
 DESCRIPTION
 
-The core components for a network of public-facing, urban screens. Styled for a portrait, touch-based display, with available browser screen space of 745x1340. 
-
-The database allows separate slideshows from the same media directory, using a database 'appName' field to filter the images. 
-
-As this version of the ScreenBase Slideshow is instantiated, for each application/slideshow you will need to make a copy of all project files and then customise the settings and styling.
+The core components for a network of public-facing, urban screens. Styled for a portrait, touch-based display. 
 
 More information may be found in the sub-directory for each component.
 
