@@ -1,0 +1,162 @@
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\iSpy.exe.config
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\avcodec-53.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\avdevice-53.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\avfilter-2.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\avformat-53.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\avutil-51.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\lame_enc.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\postproc-51.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\swresample-0.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\swscale-2.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\ispy.ico
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\XML\Log.txt
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\iSpy.exe
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\iSpy.XmlSerializers.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Controls.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Imaging.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Imaging.Formats.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Math.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.DirectShow.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.FFMPEG.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.Ximea.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Vision.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Declarations.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Google.GData.Client.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Google.GData.Extensions.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Google.GData.YouTube.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Implementation.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\LibVlcWrapper.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Microsoft.Kinect.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\NAudio.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\NSpeex.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Renderers.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\Windows7ToolStripRenderer.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\xiApi.NET.dll
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.DirectShow.pdb
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.DirectShow.xml
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.FFMPEG.pdb
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\bin\x86\Release\AForge.Video.FFMPEG.xml
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.AboutForm.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.AddCamera.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.AddFloorPlan.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.AngleSelector.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.CameraMicSource.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.CameraWindow.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.CheckPassword.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.AddMicrophone.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureProcessor.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureTimestamp.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureObjectCount.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureRepeat.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.PTZTool.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Video.ScreenArea.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.VolumeLevel.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.FindCameras.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.GettingStarted.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.HSLFilteringForm.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.NetworkTroubleshooter.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.ErrorReporting.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.FloorPlanControl.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureSeconds.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.LayoutEditor.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.MicrophoneSource.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Player.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.RemoteCommands.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.VideoNavigator.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.ViewController.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.VideoSource.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Feedback.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Settings.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Webservices.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.MainForm.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Properties.Resources.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.AreaSelector.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpyApplication.NewVersion.resources
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpy.exe
+D:\CppWS\iSpy\iSpy Source\iSpyApplication\obj\x86\Release\iSpy.XmlSerializers.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\iSpy.exe.config
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\avcodec-53.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\avdevice-53.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\avfilter-2.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\avformat-53.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\avutil-51.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\lame_enc.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\postproc-51.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\swresample-0.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\swscale-2.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\ispy.ico
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\XML\Log.txt
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\iSpy.exe
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\iSpy.XmlSerializers.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Controls.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Imaging.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Imaging.Formats.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Math.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.DirectShow.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.FFMPEG.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.Ximea.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Vision.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Declarations.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Google.GData.Client.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Google.GData.Extensions.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Google.GData.YouTube.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Implementation.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\LibVlcWrapper.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Microsoft.Kinect.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\NAudio.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\NSpeex.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Renderers.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\Windows7ToolStripRenderer.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\xiApi.NET.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.DirectShow.pdb
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.DirectShow.xml
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.FFMPEG.pdb
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.AboutForm.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.AddCamera.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.AddFloorPlan.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.AngleSelector.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.CameraMicSource.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.CameraWindow.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.CheckPassword.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.AddMicrophone.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureProcessor.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureTimestamp.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureObjectCount.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureRepeat.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.PTZTool.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Video.ScreenArea.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.VolumeLevel.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.FindCameras.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.GettingStarted.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.HSLFilteringForm.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.NetworkTroubleshooter.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.ErrorReporting.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.FloorPlanControl.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.ConfigureSeconds.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.LayoutEditor.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.MicrophoneSource.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Player.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.RemoteCommands.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.VideoNavigator.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.ViewController.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.VideoSource.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Feedback.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Settings.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Webservices.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.MainForm.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Properties.Resources.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.Controls.AreaSelector.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpyApplication.NewVersion.resources
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpy.exe
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\obj\x86\Release\iSpy.XmlSerializers.dll
+D:\CppWS\iSpy\iSpy_yl\iSpyApplication\bin\x86\Release\AForge.Video.FFMPEG.xml

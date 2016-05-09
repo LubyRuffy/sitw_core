@@ -1,0 +1,10 @@
+D:\CppWS\iSpy\Release\AForge.Video.DirectShow.dll
+D:\CppWS\iSpy\Release\AForge.Video.DirectShow.pdb
+D:\CppWS\iSpy\Release\AForge.Video.DirectShow.xml
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Debug\ResolveAssemblyReference.cache
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.Properties.Resources.resources
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.dll
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Debug\AForge.Video.DirectShow.pdb

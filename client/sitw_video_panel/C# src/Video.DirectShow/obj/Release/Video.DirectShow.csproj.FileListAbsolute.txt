@@ -1,0 +1,17 @@
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Release\ResolveAssemblyReference.cache
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Release\AForge.Video.DirectShow.Properties.Resources.resources
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Release\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Release\AForge.Video.DirectShow.dll
+D:\CppWS\iSpy\iSpy Source\Video.DirectShow\obj\Release\AForge.Video.DirectShow.pdb
+D:\CppWS\iSpy\Release\AForge.Video.DirectShow.dll
+D:\CppWS\iSpy\Release\AForge.Video.DirectShow.pdb
+D:\CppWS\iSpy\Release\AForge.Video.DirectShow.xml
+D:\CppWS\iSpy\iSpy_yl\Video.DirectShow\obj\Release\ResolveAssemblyReference.cache
+D:\CppWS\iSpy\iSpy_yl\Video.DirectShow\obj\Release\AForge.Video.DirectShow.Properties.Resources.resources
+D:\CppWS\iSpy\iSpy_yl\Video.DirectShow\obj\Release\AForge.Video.DirectShow.VideoCaptureDeviceForm.resources
+D:\CppWS\iSpy\iSpy_yl\Video.DirectShow\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\CppWS\iSpy\iSpy_yl\Video.DirectShow\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\CppWS\iSpy\iSpy_yl\Video.DirectShow\obj\Release\AForge.Video.DirectShow.dll
+D:\CppWS\iSpy\iSpy_yl\Video.DirectShow\obj\Release\AForge.Video.DirectShow.pdb

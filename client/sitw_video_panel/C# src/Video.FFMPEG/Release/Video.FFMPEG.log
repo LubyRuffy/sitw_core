@@ -1,0 +1,30 @@
+﻿Build started 11/06/2013 15:30:42.
+     1>Project "D:\CppWS\iSpy\iSpy_yl\Video.FFMPEG\Video.FFMPEG.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Video.FFMPEG.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Video.FFMPEG.vcxproj -> D:\CppWS\iSpy\iSpy_yl\Video.FFMPEG\.\bin\AForge.Video.FFMPEG.dll
+       MetaGen:
+       Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+       XdcMake:
+         All outputs are up-to-date.
+       PostBuildEvent:
+         sn -R ".\bin\AForge.Video.FFMPEG.dll" ".\\AForge.Video.FFMPEG.snk"
+         :VCEnd
+         
+         Microsoft (R) .NET Framework Strong Name Utility  Version 4.0.30319.1
+         Copyright (c) Microsoft Corporation.  All rights reserved.
+         
+         Assembly '.\bin\AForge.Video.FFMPEG.dll' successfully re-signed
+       FinalizeBuildStatus:
+         Deleting file "Release\Video.FFMPEG.unsuccessfulbuild".
+         Touching "Release\Video.FFMPEG.lastbuildstate".
+     1>Done Building Project "D:\CppWS\iSpy\iSpy_yl\Video.FFMPEG\Video.FFMPEG.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16
